@@ -5,7 +5,7 @@
 | Игра | Страница |
 | --- | --- |
 | Блокпост: Мерж против зомби / Checkpoint: Merge vs Zombies | `checkpoint-merge-vs-zombies/` |
-| Слендер в России: Последний автобус / Slender in Russia: The Last Bus | `slender-last-bus/` |
+| Экзорцист: Проклятие Веры / Exorcist: Vera's Curse | `exorcist-vera/` |
 
 ## Как добавить игру
 
